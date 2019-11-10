@@ -32,7 +32,6 @@ export const Main = styled.main`
             {
                 text-align: center;
                 font-size: 25px;
-                cursor: pointer;
 
                 &:hover{
                     color: rgba(113, 89, 193, 0.623);
@@ -42,7 +41,6 @@ export const Main = styled.main`
             p{
                 font-size: 20px;
                 margin-top: 25px;
-                cursor: pointer;
 
                 &:hover{
                     color: rgba(113, 89, 193, 0.623);
@@ -65,7 +63,6 @@ export const Footer = styled.footer`
             article
             {
                 width: 250px;
-                cursor: pointer;
 
                 svg{
                     font-size: 25px;
@@ -119,7 +116,6 @@ s
 
             svg{
                 font-size: 50px;
-                cursor: pointer;
 
                 &:hover{
                     color: rgb(252, 201, 218);
