@@ -46,6 +46,7 @@ export const Main = styled.main`
                 transition: color 0.4s linear;
 
                 &:hover{
+                    cursor: pointer;
                     color: rgba(113, 89, 193, 0.623);
                 }
             }
@@ -79,10 +80,12 @@ s
                 }
 
                 &:hover {
+                    cursor: pointer;
                     color: rgb(252, 201, 218);
                 }
 
                 &:hover p{
+                    cursor: pointer;
                     color: rgb(252, 201, 218);
                 }
             }
