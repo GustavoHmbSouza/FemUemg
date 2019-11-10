@@ -33,7 +33,7 @@ export const Main = styled.main`
                 text-align: center;
                 font-size: 25px;
                 cursor: pointer;
-                transition: all 0.4s linear;
+                transition: color 0.4s linear;
 
                 &:hover{
                     color: rgba(113, 89, 193, 0.623);
@@ -44,7 +44,7 @@ export const Main = styled.main`
                 font-size: 20px;
                 margin-top: 25px;
                 cursor: pointer;
-                transition: all 0.4s linear;
+                transition: color 0.4s linear;
 
                 &:hover{
                     color: rgba(113, 89, 193, 0.623);
@@ -68,7 +68,7 @@ export const Footer = styled.footer`
             {
                 width: 250px;
                 cursor: pointer;
-                transition: all 0.4s linear;
+                transition: color 0.4s linear;
 
                 svg{
                     font-size: 25px;
@@ -76,8 +76,8 @@ export const Footer = styled.footer`
 
                 p{
                     color: white;
-                    transition: all 0.4s linear;
-
+                    transition: color 0.4s linear;
+s
                 }
 
                 &:hover {
@@ -124,7 +124,7 @@ export const Footer = styled.footer`
             svg{
                 font-size: 50px;
                 cursor: pointer;
-                transition: all 0.4s linear;
+                transition: color 0.4s linear;
 
                 &:hover{
                     color: rgb(252, 201, 218);
